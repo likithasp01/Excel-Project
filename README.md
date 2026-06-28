@@ -76,16 +76,10 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## Dashboard Preview
 
-### Data Cleaning
+
 
 <img width="685" height="608" alt="Data Cleaning" src="https://github.com/user-attachments/assets/c1290e5c-13be-4bb6-a097-abe45fbd7a15" />
 
-### Interactive Dashboard
 
-<img width="700" height="982" alt="Bike Buyers Dashboard" src="https://github.com/user-attachments/assets/b834fdff-1986-467b-add6-b0d326216492" />
-
-## Screenshot
-
-<img width="700" height="982" alt="image" src="https://github.com/user-attachments/assets/b834fdff-1986-467b-add6-b0d326216492" />
 
 
