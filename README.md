@@ -1,12 +1,14 @@
 # Bike Buyers Excel Dashboard Project
 
-## Overview
+## Problem Statement
 
-This project analyzes customer demographic data to identify factors that influence bike purchases. The analysis was performed using Microsoft Excel and includes data cleaning, pivot tables, and an interactive dashboard.
+Understanding customer purchasing behavior is essential for businesses to improve marketing strategies and increase sales. This project analyzes customer demographic data to identify the key factors influencing bike purchase decisions. Using Microsoft Excel, the data was cleaned, analyzed, and transformed into an interactive dashboard that provides valuable business insights.
+
+---
 
 ## Dataset
 
-The dataset contains customer information such as:
+The dataset contains customer demographic and purchasing information, including:
 
 * Marital Status
 * Gender
@@ -21,85 +23,69 @@ The dataset contains customer information such as:
 * Age
 * Purchased Bike
 
-## Project Objectives
-
-* Clean and prepare raw customer data.
-* Analyze purchasing patterns.
-* Identify factors affecting bike purchases.
-* Create visual dashboards for business insights.
+---
 
 ## Tools Used
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Data Cleaning Techniques
+* **Microsoft Excel**
+* **Data Cleaning**
+* **Pivot Tables**
+* **Pivot Charts**
+* **Slicers**
+* **Dashboard Design**
 
+---
 
-## Data Cleaning Performed
+## Process
+
+###  Data Collection
+
+* Imported the Bike Buyers dataset into Microsoft Excel.
+
+###  Data Cleaning
 
 * Checked for missing values.
 * Standardized categorical values.
 * Verified data consistency.
-* Prepared data for pivot table analysis.
+* Formatted columns for analysis.
+* Prepared the dataset for pivot table reporting.
 
-## Analysis Conducted
+###  Data Analysis
 
-### Income vs Bike Purchase
+* Created Pivot Tables to summarize customer data.
+* Analyzed bike purchases based on income, age, gender, commute distance, region, and marital status.
+* Identified customer purchasing patterns and demographic trends.
 
-Analyzed how customer income influences bike purchasing decisions.
+###  Dashboard Development
 
-### Age vs Bike Purchase
+* Built an interactive Excel dashboard using Pivot Charts.
+* Added slicers for dynamic filtering.
+* Designed visualizations to compare bike buyers and non-buyers across different customer segments.
 
-Studied purchasing behavior across different age groups.
+---
 
-### Gender Analysis
+## Key Findings
 
-Compared bike purchases between male and female customers.
+* Customers with higher incomes were more likely to purchase bikes.
+* Middle-aged customers showed the highest bike purchase rate.
+* Commute distance influenced purchasing decisions, with moderate-distance commuters purchasing more bikes.
+* Purchasing patterns varied across different regions.
+* Customer demographics such as age, gender, and marital status contributed to differences in buying behavior.
 
-### Commute Distance Analysis
+---
 
-Investigated the relationship between commute distance and bike purchases.
+## Dashboard Preview
 
-### Regional Analysis
+### Data Cleaning
 
-Compared bike purchase trends across different regions.
+<img width="685" height="608" alt="Data Cleaning" src="https://github.com/user-attachments/assets/c1290e5c-13be-4bb6-a097-abe45fbd7a15" />
 
-### Marital Status Analysis
+### Interactive Dashboard
 
-Examined whether marital status affects purchasing decisions.
-
-## Dashboard Features
-
-The dashboard provides:
-
-* Interactive filtering using slicers.
-* Visual comparison of bike buyers and non-buyers.
-* Demographic insights.
-* Regional performance analysis.
-* Customer behavior trends.
-
-## Key Insights
-
-* Income has a significant impact on bike purchasing behavior.
-* Certain age groups are more likely to purchase bikes.
-* Commute distance influences buying decisions.
-* Purchase patterns vary by region and demographic characteristics.
-
-## Skills Demonstrated
-
-* Data Cleaning
-* Data Analysis
-* Pivot Tables
-* Dashboard Design
-* Data Visualization
-* Business Intelligence Reporting
+<img width="700" height="982" alt="Bike Buyers Dashboard" src="https://github.com/user-attachments/assets/b834fdff-1986-467b-add6-b0d326216492" />
 
 ## Screenshot
 
 <img width="700" height="982" alt="image" src="https://github.com/user-attachments/assets/b834fdff-1986-467b-add6-b0d326216492" />
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="685" height="608" alt="image" src="https://github.com/user-attachments/assets/c1290e5c-13be-4bb6-a097-abe45fbd7a15" />
 
